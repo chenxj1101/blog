@@ -2,7 +2,6 @@
 layout: post
 title: python提取GFF3文件信息
 date: 2018/1/23 15:48:44
-updated: 2018/1/23 14:09:41
 categories:
 - 生信
 tags:
