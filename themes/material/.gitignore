@@ -1,13 +1,11 @@
 .DS_Store
-
+.vscode
 npm-debug.log
 
-_config.yml
+
 
 node_modules
 
 .idea
 
-.directory
-source/img/avatar.png
-source/img/daily_pic.png
+
