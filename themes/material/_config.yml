@@ -157,7 +157,7 @@ toc:
 
 # SNS Menu
 sns:
-    email: ccj799@gmail.com
+    email: chenxj799@163.com
     facebook: 
     twitter: "https://twitter.com/chenxj1217"
     googleplus: 
@@ -185,7 +185,7 @@ sns_share:
 sidebar:
     dropdown:
         Email Me:
-            link: "mailto:ccj799@gmail.com"
+            link: "mailto:chenxj799@163.com"
             icon: email
     homepage:
         use: true
